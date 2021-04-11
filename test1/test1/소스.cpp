@@ -7,5 +7,7 @@ int main()
 
 	cout << "I love TBcpp" << endl;
 
+	cout << "Test" << endl;
+
 	return 0;
 }
